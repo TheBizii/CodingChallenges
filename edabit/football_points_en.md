@@ -8,9 +8,11 @@ Create a function that takes the number of `wins` `draws` and `losses` and calcu
 
 ## Examples
 
+˙˙˙C++
 footballPoints(3, 4, 2) == 13;
 footballPoints(5, 0, 2) == 15;
 footballPoints(0, 0, 1) == 0;
+˙˙˙
 
 ## Notes
 
