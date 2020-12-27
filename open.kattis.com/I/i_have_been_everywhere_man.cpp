@@ -11,7 +11,7 @@ int main() {
 		int n;
 		cin >> n;
 		
-		// Sets store unique items, saving us time by now having to check if an array or vector already contains an element.
+		// Sets store unique items, saving us time by not having to check if an array or vector already contains an element.
 		set<string> cities;
 		for(; n > 0; n--) {
 			string city;
