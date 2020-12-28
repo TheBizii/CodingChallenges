@@ -14,7 +14,7 @@ Output a single line. If the input string contains two consecutive occurences of
 
 ## Examples
 
-`Sample Input` | `Sample Output`
+Sample Input | Sample Output
 -|-
 `amiss` | `hiss`
 `octopuses` | `no hiss`
