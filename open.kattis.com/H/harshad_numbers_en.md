@@ -14,7 +14,7 @@ Input consists of a single line containing a positive integer _**n**_ ≤ **1 00
 
 ## Output
 
-Display the smallest harshad number greater than or equal to _**n**_
+Display the smallest harshad number greater than or equal to _**n**_.
 
 ## Examples
 

@@ -13,7 +13,7 @@ Please help Hanh check what will be his final score. Given that Hanh is a great 
 ## Input
 
 * The first line of the input contains a single integer _**n**_ (**1** ≤ _**n**_ ≤ **1000**) - the number of questions.
-* _**n**_ lines follow, the _**i**_-th line contains a single character, **A**, **B**, **C**, or **D** - the correct answer for **i**-th question.
+* _**n**_ lines follow, the _**i**_-th line contains a single character, **A**, **B**, **C**, or **D** - the correct answer for _**i**_-th question.
 
 ## Output
 

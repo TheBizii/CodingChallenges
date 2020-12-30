@@ -19,6 +19,7 @@ The first and only line of output should contain one integer, the minimal number
 ## Examples
 
 Sample Input | Sample Output
+-|-
 `38 24` | `875`
 `1 100` | `100`
 `10 10` | `91`

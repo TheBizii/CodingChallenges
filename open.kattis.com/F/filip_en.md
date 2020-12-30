@@ -1,6 +1,6 @@
 # Filip
 
-Mirko has a younger brother, Filip, who just started going to school and is having trouble with numbers. To help him get the hang of the number scale, his teacher writes two three-digit numbers. She asks Filip to compare those numbers. She asks Filip to compare those numbers, but instead of interpreting them with the leftmost most significant digit, he needs to interpret them the other way around, with the most significant digit being the rightmost one. He then has to tell the teacher the larger of the two numbers.
+Mirko has a younger brother, Filip, who just started going to school and is having trouble with numbers. To help him get the hang of the number scale, his teacher writes two three-digit numbers. She asks Filip to compare those numbers, but instead of interpreting them with the leftmost most significant digit, he needs to interpret them the other way around, with the most significant digit being the rightmost one. He then has to tell the teacher the larger of the two numbers.
 
 Write a program that will check Filip's answers.
 
