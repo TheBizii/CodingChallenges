@@ -9,7 +9,7 @@ To start the algorithm, Mirko selects 4 points forming a perfect square. He then
 
 After those two steps are performed, he now has 4 new squares. He performs the same steps on the newly created squares again and again until he is pleased with the results.
 
-| ![](https://i.imgur.com/oZkJ4Vs.png) |
+| ![](https://i.imgur.com/Skj4Ier.png) |
 |:--:|
 | **Figure 1**: Two iterations of the algorithm |
 

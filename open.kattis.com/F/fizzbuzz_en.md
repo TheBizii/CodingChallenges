@@ -2,7 +2,7 @@
 
 According to Wikipedia, FizzBuzz is a group word game for children to teach them about division. This may or may not be true, but this question is generally used to ~~torture~~ screen young computer science graduates during programming interviews.
 
-Basically, this is how it works: you print the integers from **1** to _**N**_, replacing any of them divisible by _**X**_ with _Fizz__ or, if they are divisible by _**Y**_, with _Buzz_. If the number is divisible by both _**X**_ and _**Y**_, you print _FizzBuzz_ instead.
+Basically, this is how it works: you print the integers from **1** to _**N**_, replacing any of them divisible by _**X**_ with _Fizz_ or, if they are divisible by _**Y**_, with _Buzz_. If the number is divisible by both _**X**_ and _**Y**_, you print _FizzBuzz_ instead.
 
 Check the samples for further clarification.
 
