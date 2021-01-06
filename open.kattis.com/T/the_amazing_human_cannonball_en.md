@@ -14,7 +14,7 @@ Write a program to determine if the human cannonball can make it safely through 
 
 ## Input
 
-The input will consist of up to 100 test cases. The first line contains an integer _**N**_, denoting the number of test cases that follow. Each test case has 5 parameters: _**v₀_ _**θ**_ _**x₁**_ _**h₁**_ _**h₂**_, separated by spaces. _**v₀**_ (**0** < _**v₀**_ ≤ **200**) represents the ball’s initial velocity in m/s. _**θ**_ is an angle given in degrees (**0** < _**θ**_ < **90**), _**x₁**_ (**0** < _**x₁**_ < **1000**) is the distance from the cannon to the wall, _**h₁**_ and _**h₂**_ (**0** < _**h₁**_ < _**h₂**_ < **1000**) are the heights of the lower and upper edges of the wall. All numbers are floating point numbers.
+The input will consist of up to 100 test cases. The first line contains an integer _**N**_, denoting the number of test cases that follow. Each test case has 5 parameters: _**v₀**_ _**θ**_ _**x₁**_ _**h₁**_ _**h₂**_, separated by spaces. _**v₀**_ (**0** < _**v₀**_ ≤ **200**) represents the ball’s initial velocity in m/s. _**θ**_ is an angle given in degrees (**0** < _**θ**_ < **90**), _**x₁**_ (**0** < _**x₁**_ < **1000**) is the distance from the cannon to the wall, _**h₁**_ and _**h₂**_ (**0** < _**h₁**_ < _**h₂**_ < **1000**) are the heights of the lower and upper edges of the wall. All numbers are floating point numbers.
 
 ## Output
 

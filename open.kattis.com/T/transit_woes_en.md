@@ -2,7 +2,7 @@
 
 Everyday Yraglac relies on his city’s local transit system to get to and from campus. Since this is routine for him, he’s memorized exactly what time will let him leave his house and make it in time to his first morning class. Of course transit being transit, they decided to change around the schedules for some of the routes Yraglac takes.
 
-Yraglac leaves his house everyday at time _s_ to make it to his first class which starts at time _t_. To get there, he takes _n_ transit routes, one after the other. When transferring from one transit route to another, going from his house to the first transit stop, and going from the last transit stop to his class, he must walk for _dᵢ_ time. Yraglac rides the _i_−th bus for _bᵢ_ time before getting off and walking to the `i + 1`-th bus stop. Last but not least, each bus only comes at an interval of every _cᵢ_. The first one always leaving at time 0.
+Yraglac leaves his house everyday at time _s_ to make it to his first class which starts at time _t_. To get there, he takes _n_ transit routes, one after the other. When transferring from one transit route to another, going from his house to the first transit stop, and going from the last transit stop to his class, he must walk for _dᵢ_ time. Yraglac rides the _i_ −th bus for _bᵢ_ time before getting off and walking to the `i + 1`-th bus stop. Last but not least, each bus only comes at an interval of every _cᵢ_. The first one always leaving at time 0.
 
 Given the new schedules for the routes Yraglac takes, can you find out if he can make it to class on time?
 
