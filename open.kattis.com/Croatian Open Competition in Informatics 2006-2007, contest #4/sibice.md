@@ -17,6 +17,8 @@ Each of the following _**N**_ lines contains a single integer between **1** and 
 For each match, in the order they were given in the input, output on a separate line “DA” if the match fits in the box or “NE” if it does not.
 
 ## Examples
+
+Sample Input | Sample Output
 -|-
 `5 3 4`<br>`3`<br>`4`<br>`5`<br>`6`<br>`7` | `DA`<br>`DA`<br>`DA`<br>`NE`<br>`NE`
 `2 12 17`<br>`21`<br>`20` | `NE`<br>`DA`
