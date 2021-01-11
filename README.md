@@ -1,5 +1,5 @@
 # Coding challenges repository
-This repository currently contains **96** solved challenge(s), all solved using a C++ language.
+This repository currently contains **100** solved challenge(s), all solved using a C++ language.
 
 ## File naming convention
 There are two files that each task has. The first one is a file that contains instructions and ends with .md. The second file contains source code (solution) of the task. Files are named in a simple way. File that contains instructions has a name that contains the name of the task with a language code appended (mostly _en [for English] and _sl [for Slovenian]). Source code file is named after the task and does not have anything else appended to it.

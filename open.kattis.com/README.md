@@ -1686,22 +1686,22 @@ Completed challenges: 0
 Progress: 0 %
 
 #### HiQ Challenge 2017
-![0 %](https://progress-bar.dev/0/)
+![16 %](https://progress-bar.dev/16/)
 
 Total challenges: 6
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 16.7 %
 
 #### HiQ Challenge 2018
-![0 %](https://progress-bar.dev/0/)
+![20 %](https://progress-bar.dev/20/)
 
 Total challenges: 5
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 20 %
 
 #### Hong Kong Regional Contest 2016
 ![0 %](https://progress-bar.dev/0/)
@@ -3180,13 +3180,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### The 2017 ACM - ICPC Asia Ho Chi Minh City Regional Contest
-![0 %](https://progress-bar.dev/0/)
+![8 %](https://progress-bar.dev/8/)
 
 Total challenges: 12
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 8.3 %
 
 #### The 2017 ACM - ICPC Vietnam National Programming Contest
 ![0 %](https://progress-bar.dev/0/)
@@ -3324,13 +3324,13 @@ Completed challenges: 1
 Progress: 8.3 %
 
 #### University of Chicago - Department of Computer Science
-![14 %](https://progress-bar.dev/14/)
+![28 %](https://progress-bar.dev/28/)
 
 Total challenges: 7
 
-Completed challenges: 1
+Completed challenges: 2
 
-Progress: 14.3 %
+Progress: 28.6 %
 
 #### University of Chicago Masters Program in Computer Science - Placement Exam 2014/15
 ![50 %](https://progress-bar.dev/50/)
