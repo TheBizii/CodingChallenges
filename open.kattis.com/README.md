@@ -592,18 +592,18 @@ Progress: 0 %
 
 Total challenges: 130
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 0.8 %
 
 #### Benelux Algorithm Programming Contest (BAPC) 2012
-![0 %](https://progress-bar.dev/0/)
+![10 %](https://progress-bar.dev/10/)
 
 Total challenges: 10
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 10 %
 
 #### Benelux Algorithm Programming Contest (BAPC) 2013
 ![0 %](https://progress-bar.dev/0/)
@@ -2298,13 +2298,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### Ithchallenge2020
-![0 %](https://progress-bar.dev/0/)
+![14 %](https://progress-bar.dev/14/)
 
 Total challenges: 7
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 14.3 %
 
 #### Mount Allison Practice
 ![0 %](https://progress-bar.dev/0/)
