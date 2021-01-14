@@ -5,9 +5,9 @@ This document contains a frequently updated progress breakdown to keep me motiva
 
 Total challenges: 2905
 
-Completed challenges: 61
+Completed challenges: 75
 
-Progress: 2.1 %
+Progress: 2.5 %
 
 ## Breakdown
 
@@ -246,13 +246,13 @@ Completed challenges: 1
 Progress: 10 %
 
 #### 2017 ICPC East-Central NA Regional Contest
-![0 %](https://progress-bar.dev/0/)
+![10 %](https://progress-bar.dev/10/)
 
 Total challenges: 10
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 10 %
 
 #### 2017 ICPC Mid-Atlantic Regional Contest
 ![12 %](https://progress-bar.dev/12/)
@@ -984,13 +984,13 @@ Completed challenges: 1
 Progress: 16.7 %
 
 #### Croatian Open Competition in Informatics 2008/2009, contest #4
-![0 %](https://progress-bar.dev/0/)
+![16 %](https://progress-bar.dev/16/)
 
 Total challenges: 6
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 16.7 %
 
 #### Croatian Open Competition in Informatics 2008/2009, contest #6
 ![0 %](https://progress-bar.dev/0/)
@@ -1038,13 +1038,13 @@ Completed challenges: 2
 Progress: 33.3 %
 
 #### Croatian Open Competition in Informatics 2009/2010, contest #5
-![0 %](https://progress-bar.dev/0/)
+![16 %](https://progress-bar.dev/16/)
 
 Total challenges: 6
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 16.7 %
 
 #### Croatian Open Competition in Informatics 2009/2010, contest #6
 ![0 %](https://progress-bar.dev/0/)
@@ -1092,13 +1092,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### Croatian Open Competition in Informatics 2010/2011, contest #4
-![0 %](https://progress-bar.dev/0/)
+![16 %](https://progress-bar.dev/16/)
 
 Total challenges: 6
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 16.7 %
 
 #### Croatian Open Competition in Informatics 2010/2011, contest #5
 ![0 %](https://progress-bar.dev/0/)
@@ -2505,13 +2505,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### Nordic Collegiate Programming Contest (NCPC) 2015
-![0 %](https://progress-bar.dev/0/)
+![10 %](https://progress-bar.dev/10/)
 
 Total challenges: 10
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 10 %
 
 #### Nordic Collegiate Programming Contest (NCPC) 2016
 ![0 %](https://progress-bar.dev/0/)
@@ -2730,13 +2730,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### Northwestern Europe Regional Contest (NWERC) 2014 Practice Session
-![0 %](https://progress-bar.dev/0/)
+![33 %](https://progress-bar.dev/33/)
 
 Total challenges: 3
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 33.3 %
 
 #### Northwestern Europe Regional Contest (NWERC) 2015
 ![0 %](https://progress-bar.dev/0/)
@@ -3252,13 +3252,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### The 2nd ProgNova Multi-University Programming Contest (2016)
-![0 %](https://progress-bar.dev/0/)
+![12 %](https://progress-bar.dev/12/)
 
 Total challenges: 8
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 12.5 %
 
 #### The 3rd ProgNova Programming Contest (2017)
 ![0 %](https://progress-bar.dev/0/)

@@ -4,8 +4,8 @@ One of the most basic problems in information processing is identifying differen
 
 Your program should identify those characters which differ between the two given strings in a visually striking way. Output the two input strings on two lines, and then identify the differences on the line below using periods (for identical characters) and asterisks (for differing characters). For example:
 
-ATCCGCTTAGAGGGATT
-GTCCGTTTAGAAGGTTT
+ATCCGCTTAGAGGGATT<br>
+GTCCGTTTAGAAGGTTT<br>
 \*....\*.....\*..\*..
 
 ## Input
