@@ -8,7 +8,7 @@ The first line contains two positive integers _**D**_ (day) and _**M**_ (month) 
 
 ## Output
 
-Output the day of the week on day _**D**_ of month _**M**M in 2009. The output should be one of the words “Monday”, “Tuesday”, “Wednesday”, “Thursday”, “Friday”, “Saturday” or “Sunday”.
+Output the day of the week on day _**D**_ of month _**M**_ in 2009. The output should be one of the words “Monday”, “Tuesday”, “Wednesday”, “Thursday”, “Friday”, “Saturday” or “Sunday”.
 
 ## Examples
 

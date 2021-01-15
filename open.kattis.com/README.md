@@ -5,9 +5,9 @@ This document contains a frequently updated progress breakdown to keep me motiva
 
 Total challenges: 2905
 
-Completed challenges: 75
+Completed challenges: 77
 
-Progress: 2.5 %
+Progress: 2.6 %
 
 ## Breakdown
 
@@ -480,13 +480,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### Alberta Collegiate Programming Contest 2017
-![0 %](https://progress-bar.dev/0/)
+![11 %](https://progress-bar.dev/11/)
 
 Total challenges: 9
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 11.1 %
 
 #### Alberta Collegiate Programming Contest 2018
 ![0 %](https://progress-bar.dev/0/)
@@ -2289,13 +2289,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### LTH Challenge 2019
-![0 %](https://progress-bar.dev/0/)
+![16 %](https://progress-bar.dev/16/)
 
 Total challenges: 6
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 16.7 %
 
 #### Ithchallenge2020
 ![14 %](https://progress-bar.dev/14/)

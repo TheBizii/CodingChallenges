@@ -21,7 +21,7 @@ Output four lines, containing the ratios of whitespace characters, lowercase let
 Sample Input | Sample Output
 -|-
 `Welcome_NWERC_participants!` | `0.0740740740740741`<br>`0.666666666666667`<br>`0.222222222222222`<br>`0.0370370370370370`
-`\/\/in_US$100000_in_our_Ca$h_Lo||ery!!!` | `0.128205128205128`<br>`0.333333333333333`<br>`0.102564102564103`<br>`0.435897435897436`
+`\/\/in_US$100000_in_our_Ca$h_Lo\|\|ery!!!` | `0.128205128205128`<br>`0.333333333333333`<br>`0.102564102564103`<br>`0.435897435897436`
 
 ## Limits
 
