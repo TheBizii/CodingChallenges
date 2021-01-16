@@ -5,7 +5,7 @@ This document contains a frequently updated progress breakdown to keep me motiva
 
 Total challenges: 2905
 
-Completed challenges: 77
+Completed challenges: 78
 
 Progress: 2.6 %
 
@@ -588,13 +588,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### Baylor Competitive Learning course
-![0 %](https://progress-bar.dev/0/)
+![1 %](https://progress-bar.dev/1/)
 
 Total challenges: 130
 
-Completed challenges: 1
+Completed challenges: 2
 
-Progress: 0.8 %
+Progress: 1.5 %
 
 #### Benelux Algorithm Programming Contest (BAPC) 2012
 ![10 %](https://progress-bar.dev/10/)
