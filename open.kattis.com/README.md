@@ -5,20 +5,20 @@ This document contains a frequently updated progress breakdown to keep me motiva
 
 Total challenges: 2905
 
-Completed challenges: 78
+Completed challenges: 81
 
-Progress: 2.6 %
+Progress: 2.7 %
 
 ## Breakdown
 
 #### 2004 ACM ICPC Mid-Central North American Regional Contest
-![0 %](https://progress-bar.dev/0/)
+![14 %](https://progress-bar.dev/14/)
 
 Total challenges: 7
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 14.2 %
 
 #### 2012 University of Chicago Invitational Programming Contest
 ![0 %](https://progress-bar.dev/0/)
@@ -165,13 +165,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### 2016 Greater New York Region ACM Regional Contest
-![0 %](https://progress-bar.dev/0/)
+![10 %](https://progress-bar.dev/10/)
 
 Total challenges: 10
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 10 %
 
 #### 2016 ICPC East-Central NA Regional Contest
 ![0 %](https://progress-bar.dev/0/)
@@ -237,13 +237,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### 2017 Greater New York Region ACM Regional Contest
-![10 %](https://progress-bar.dev/10/)
+![20 %](https://progress-bar.dev/20/)
 
 Total challenges: 10
 
-Completed challenges: 1
+Completed challenges: 2
 
-Progress: 10 %
+Progress: 20 %
 
 #### 2017 ICPC East-Central NA Regional Contest
 ![10 %](https://progress-bar.dev/10/)
