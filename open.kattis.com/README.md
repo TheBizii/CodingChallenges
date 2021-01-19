@@ -5,9 +5,9 @@ This document contains a frequently updated progress breakdown to keep me motiva
 
 Total challenges: 2905
 
-Completed challenges: 81
+Completed challenges: 82
 
-Progress: 2.7 %
+Progress: 2.8 %
 
 ## Breakdown
 
@@ -2964,13 +2964,13 @@ Completed challenges: 0
 Progress: 9.1 %
 
 #### Rocky Mountain Regional Contest (RMRC) 2016
-![10 %](https://progress-bar.dev/10/)
+![20 %](https://progress-bar.dev/20/)
 
 Total challenges: 10
 
-Completed challenges: 1
+Completed challenges: 2
 
-Progress: 10 %
+Progress: 20 %
 
 #### Rocky Mountain Regional Contest (RMRC) 2017
 ![18 %](https://progress-bar.dev/18/)
