@@ -9,9 +9,9 @@ int main() {
 	int i = 0;
 	while(i < N) {
 		std::string C, tmpR;
-		int R;
-		
+		double R;
 		std::cin >> C >> tmpR;
+		
 		try {
 			R = std::stod(tmpR);
 		} catch(const std::exception&) {

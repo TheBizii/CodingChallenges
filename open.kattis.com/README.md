@@ -1,24 +1,24 @@
 # Progress
 This document contains a frequently updated progress breakdown to keep me motivated and see how far I've come.
 
-![2 %](https://progress-bar.dev/2/)
+![3 %](https://progress-bar.dev/3/)
 
 Total challenges: 2905
 
-Completed challenges: 82
+Completed challenges: 88
 
-Progress: 2.8 %
+Progress: 3 %
 
 ## Breakdown
 
 #### 2004 ACM ICPC Mid-Central North American Regional Contest
-![14 %](https://progress-bar.dev/14/)
+![28 %](https://progress-bar.dev/28/)
 
 Total challenges: 7
 
-Completed challenges: 1
+Completed challenges: 2
 
-Progress: 14.2 %
+Progress: 28.5 %
 
 #### 2012 University of Chicago Invitational Programming Contest
 ![0 %](https://progress-bar.dev/0/)
@@ -372,13 +372,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### 2018 ICPC South Central USA Regional Contest
-![8 %](https://progress-bar.dev/8/)
+![16 %](https://progress-bar.dev/16/)
 
 Total challenges: 12
 
-Completed challenges: 1
+Completed challenges: 2
 
-Progress: 8.3 %
+Progress: 16.6 %
 
 #### 2018 Virginia Tech High School Programming Contest
 ![0 %](https://progress-bar.dev/0/)
@@ -651,13 +651,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### Benelux Algorithm Programming Contest (BAPC) 2018
-![0 %](https://progress-bar.dev/0/)
+![9 %](https://progress-bar.dev/9/)
 
 Total challenges: 11
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 9 %
 
 #### Benelux Algorithm Programming Contest (BAPC) 2019
 ![0 %](https://progress-bar.dev/0/)
@@ -957,13 +957,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### Croatian Open Competition in Informatics 2008/2009, contest #1
-![0 %](https://progress-bar.dev/0/)
+![16 %](https://progress-bar.dev/16/)
 
 Total challenges: 6
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 16.6 %
 
 #### Croatian Open Competition in Informatics 2008/2009, contest #2
 ![16 %](https://progress-bar.dev/16/)
@@ -2334,13 +2334,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### Mount Allison Programming Showdown (MAPS 2020)
-![0 %](https://progress-bar.dev/0/)
+![8 %](https://progress-bar.dev/8/)
 
 Total challenges: 12
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 8 %
 
 #### Nada Open 2002
 ![0 %](https://progress-bar.dev/0/)
@@ -2451,13 +2451,13 @@ Completed challenges: 0
 Progress: 0 %
 
 #### Nordic Collegiate Programming Contest (NCPC) 2009
-![0 %](https://progress-bar.dev/0/)
+![10 %](https://progress-bar.dev/10/)
 
 Total challenges: 10
 
-Completed challenges: 0
+Completed challenges: 1
 
-Progress: 0 %
+Progress: 10 %
 
 #### Nordic Collegiate Programming Contest (NCPC) 2010
 ![0 %](https://progress-bar.dev/0/)
